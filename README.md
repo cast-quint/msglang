@@ -1,6 +1,6 @@
 # msglang: A messsage passing language implemented in pure C++
 
-msglang is a special-purpose message-passing language developed in the context of my [Software Engineering](https://www.csd.uoc.gr/~hy352/) class.
+msglang is a special-purpose, message-passing language developed as a project for my [Software Engineering](https://www.csd.uoc.gr/~hy352/) course.
 It uses "Message Object" variables which take the role of a "Sending Object" or a "Receiving Object".
 The language is implemented in, and compiled to, pure C++, meaning that Overloading and the Pre-Processor were hacked and bend to their knees.
 
